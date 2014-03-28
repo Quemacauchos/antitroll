@@ -1,0 +1,11 @@
+{
+  "id"         : "jid1-VKHULygY8CQUVw",
+  "name"       : "antitroll",
+  "title"      : "antitroll",
+  "description": "Fight against trolls",
+  "author"     : "Quemacauchos",
+  "license"    : "MPL 2.0",
+  "version"    : "1.1",
+  "icon"       : "data/icon.png",
+  "icon64"     : "data/icon64.png"
+}
